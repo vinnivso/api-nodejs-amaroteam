@@ -19,9 +19,10 @@ Você precisa criar uma API com os seguintes requisitos:
 #### Configurando um banco de dados para testar a solução de dados
 - Criar um arquivo .env na root do projeto, ou seja, onde encontra-se o package.json.
 - Inserir as informações abaixo no arquivo .env com seus respectivos valores:
-DB_HOST = "Name or IP address of the server host"
-DB_USER = "Name of the user to connect with"
-DB_PASSWORD = "The user's password"
+
+DB_HOST = "Name or IP address of the server host"<br/>
+DB_USER = "Name of the user to connect with"<br/>
+DB_PASSWORD = "The user's password"<br/>
 DB_SCHEMA = "The schema to use"
 
 #### Solução
@@ -30,4 +31,4 @@ Esta solução foi construída utilizando o YARN: Rode os seguintes comandos den
 - yarn dev or yarn start
 
 #### Link da Documentação
-* https://documenter.getpostman.com/view/16818323/UVJhBuHN
+- https://documenter.getpostman.com/view/16818323/UVJhBuHN
