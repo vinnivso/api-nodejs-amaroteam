@@ -33,3 +33,16 @@ Esta solução foi construída utilizando o YARN: Rode os seguintes comandos den
 
 #### Link da Documentação
 - https://documenter.getpostman.com/view/16818323/UVJhBuHN
+
+## O que temos aqui?
+- [x]  NodeJS
+- [x]  TypeScript
+- [x]  Express
+- [x]  Nodemon
+
+## INTEGRANTE
+Perfil      | Link do perfil no GITHUB
+--------- | ------
+[<img src="https://avatars.githubusercontent.com/u/52759918?v=4" width="75px;"/>](https://github.com/vinnivso) | [Vinícius Oliveira](https://github.com/vinnivso)
+
+
