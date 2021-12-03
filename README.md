@@ -16,7 +16,8 @@ Você precisa criar uma API com os seguintes requisitos:
   deverá listar todos os produtos com aquela respectiva busca, poderá ser feito em um ou mais end-points.
 
 ==========================
-#### Configurando um banco de dados para testar a solução de dados
+
+#### Configurando um banco de dados para testar a solução
 - Criar um arquivo .env na root do projeto, ou seja, onde encontra-se o package.json.
 - Inserir as informações abaixo no arquivo .env com seus respectivos valores:
 
