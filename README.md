@@ -38,6 +38,7 @@ Esta solução foi construída utilizando o YARN: Rode os seguintes comandos den
 - [x]  NodeJS
 - [x]  TypeScript
 - [x]  Express
+- [x]  SQL
 - [x]  Nodemon
 
 ## INTEGRANTE
