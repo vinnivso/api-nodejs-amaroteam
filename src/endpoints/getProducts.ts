@@ -18,7 +18,6 @@ export const getProducts = async (request: express.Request, response: express.Re
     } else {
       result = await new ProductsDatabase().getAllProducts()
     }
-    console.log(result)
     response.send(result)
 
   } catch (error:any) {
