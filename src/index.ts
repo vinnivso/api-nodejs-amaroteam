@@ -1,6 +1,6 @@
 import { app } from "./app"
-import { createProducts } from "./endpoints/createProducts"
-import { getProducts } from "./endpoints/getProducts"
+import { EndpointGetProduct } from "./endpoints/EndpointGetProduct"
+import { EndpointCreateProduct } from "./endpoints/EndpointCreateProduct"
 
-app.get("/products", getProducts)
-app.post("/products", createProducts)
+app.get("/products", new EndpointGetProduct().getProducts)
+app.post("/products", new EndpointCreateProduct().createProduct)

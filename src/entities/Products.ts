@@ -1,4 +1,4 @@
-export default class Products {
+export class Products {
   //Como estou definindo a ID como opcional, logo ele precisa ser o último.
   constructor(
     private name: string,
