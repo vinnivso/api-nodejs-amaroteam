@@ -27,9 +27,9 @@ DB_PASSWORD = "The user's password"<br/>
 DB_SCHEMA = "The schema to use"
 
 #### Solução
-Esta solução foi construída utilizando o YARN: Rode os seguintes comandos dentro da pasta que estiver com o package.json.
-- yarn migrations
-- yarn dev or yarn start
+Rode os seguintes comandos dentro da pasta que estiver com o package.json.
+- npm run migrations
+- npm run dev or npm start
 
 #### Link da Documentação
 - https://documenter.getpostman.com/view/16818323/UVJhBuHN
@@ -45,5 +45,3 @@ Esta solução foi construída utilizando o YARN: Rode os seguintes comandos den
 Perfil      | Link do perfil no GITHUB
 --------- | ------
 [<img src="https://avatars.githubusercontent.com/u/52759918?v=4" width="75px;"/>](https://github.com/vinnivso) | [Vinícius Oliveira](https://github.com/vinnivso)
-
-
