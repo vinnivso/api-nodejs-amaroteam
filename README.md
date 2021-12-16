@@ -1,4 +1,4 @@
-# AmaroTeam-Challenge
+# challenge-amaroteam
 AmaroTeam Challenge - TypeScript - Back End
 
 ## Sobre o desafio
