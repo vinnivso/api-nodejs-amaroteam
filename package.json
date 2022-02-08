@@ -1,4 +1,10 @@
 {
+   "name": "api-nodejs-amaroteam",
+   "version": "1.0.0",
+   "main": "index.js",
+   "repository": "git@github.com:vinnivso/api-nodejs-amaroteam.git",
+   "author": "vinnivso <vinnivsob@gmail.com>",
+   "license": "MIT",
    "scripts": {
       "dev": "clear && nodemon ./src/index.ts",
       "start": "tsc && node ./build/index.js",
